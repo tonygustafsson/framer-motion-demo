@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, useMotionValue } from "framer-motion";
+import { m as motion, useMotionValue } from "framer-motion";
 import { useEffect, useRef } from "react";
 
 export default function Demo3() {
